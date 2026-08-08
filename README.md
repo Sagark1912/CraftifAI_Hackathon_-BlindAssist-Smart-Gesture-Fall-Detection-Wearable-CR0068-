@@ -1,0 +1,1 @@
+# CraftifAI_Hackathon_-BlindAssist-Smart-Gesture-Fall-Detection-Wearable-CR0068-
