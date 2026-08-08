@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0.0",
+  "view": "wiring",
+  "revision": "3c3853c3017bb4386d31d708b00b840d",
+  "graph_version": 3,
+  "generated_at_ms": 1786179465357,
+  "graph": {
+    "schema_version": 1,
+    "id": "pir_led_web_controller",
+    "name": "led_web_controller topology",
+    "description": "7 nodes, 11 connections — valid",
+    "nodes": [
+      {
+        "id": "boot",
+        "node_type": "system_init",
+        "label": "Boot / app_main",
+        "description": "Bootstraps firmware startup and initializes core subsystems.",
+        "ports": [
+          {
+            "id": "boot_boot_out_0",
+            "name": "boot_out",
+            "direction": "output",
+            "datatype": "execution",
+            "required": true,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "target": "esp32c3"
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": -500.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "wifi_reconnect",
+        "node_type": "rtos_task",
+        "label": "Task wifi_reconnect",
+        "description": "Executes RTOS loop logic for wifi_reconnect.",
+        "ports": [
+          {
+            "id": "wifi_reconnect_exec_in_0",
+            "name": "exec_in",
+            "direction": "input",
+            "datatype": "execution",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi_reconnect_trigger_in_1",
+            "name": "trigger_in",
+            "direction": "input",
+            "datatype": "event",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi_reconnect_exec_out_2",
+            "name": "exec_out",
+            "direction": "output",
+            "datatype": "execution",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi_reconnect_data_out_3",
+            "name": "data_out",
+            "direction": "output",
+            "datatype": "signal",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "task_name": "wifi_reconnect",
+          "priority": 5,
+          "stack_size": 4096,
+          "period_ms": 0.0
+        },
+        "execution": {
+          "priority": 5,
+          "stack_size": 4096,
+          "period_ms": 0.0
+        },
+        "visual": {
+          "x": 0.0,
+          "y": -300.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "storage_manager",
+        "node_type": "storage_manager",
+        "label": "Storage Manager",
+        "description": "Persists runtime state and configuration data.",
+        "ports": [
+          {
+            "id": "storage_manager_exec_in_0",
+            "name": "exec_in",
+            "direction": "input",
+            "datatype": "execution",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "storage_manager_data_in_1",
+            "name": "data_in",
+            "direction": "input",
+            "datatype": "signal",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "storage_manager_data_out_2",
+            "name": "data_out",
+            "direction": "output",
+            "datatype": "signal",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "backend": "nvs",
+          "namespace": "app"
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": -100.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "logger",
+        "node_type": "logger",
+        "label": "Logger",
+        "description": "Emits structured runtime logs for diagnostics.",
+        "ports": [
+          {
+            "id": "logger_data_in_0",
+            "name": "data_in",
+            "direction": "input",
+            "datatype": "signal",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "logger_exec_in_1",
+            "name": "exec_in",
+            "direction": "input",
+            "datatype": "execution",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "tag": "APP",
+          "level": "info"
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": 100.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "mqtt",
+        "node_type": "mqtt_client",
+        "label": "MQTT",
+        "description": "Publishes and receives MQTT messages on `esp32/sensor`.",
+        "ports": [
+          {
+            "id": "mqtt_network_in_0",
+            "name": "network_in",
+            "direction": "input",
+            "datatype": "network",
+            "required": true,
+            "multiplicity": "one"
+          },
+          {
+            "id": "mqtt_data_in_1",
+            "name": "data_in",
+            "direction": "input",
+            "datatype": "payload",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "mqtt_publish_out_2",
+            "name": "publish_out",
+            "direction": "output",
+            "datatype": "mqtt_message",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "broker_url": "/api/led/color",
+          "topic": "esp32/sensor",
+          "qos": 0
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": 300.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "wifi",
+        "node_type": "wifi_manager",
+        "label": "WiFi",
+        "description": "Manages Wi-Fi connectivity and network state.",
+        "ports": [
+          {
+            "id": "wifi_exec_in_0",
+            "name": "exec_in",
+            "direction": "input",
+            "datatype": "execution",
+            "required": true,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi_network_out_1",
+            "name": "network_out",
+            "direction": "output",
+            "datatype": "network",
+            "required": true,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "mode": "station"
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": -200.0,
+          "layer": 1
+        }
+      },
+      {
+        "id": "event_handler",
+        "node_type": "event_handler",
+        "label": "Event Handler",
+        "description": "Queues and dispatches asynchronous firmware events.",
+        "ports": [
+          {
+            "id": "event_handler_event_in_0",
+            "name": "event_in",
+            "direction": "input",
+            "datatype": "event",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "event_handler_event_out_1",
+            "name": "event_out",
+            "direction": "output",
+            "datatype": "event",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "event_handler_exec_out_2",
+            "name": "exec_out",
+            "direction": "output",
+            "datatype": "execution",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "event_base": "ESP_EVENT_ANY_BASE",
+          "event_id": -1
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": 0.0,
+          "layer": 1
+        }
+      }
+    ],
+    "connections": [
+      [
+        "boot_boot_out_0",
+        "wifi_reconnect_exec_in_0"
+      ],
+      [
+        "boot_boot_out_0",
+        "storage_manager_exec_in_0"
+      ],
+      [
+        "boot_boot_out_0",
+        "logger_exec_in_1"
+      ],
+      [
+        "boot_boot_out_0",
+        "wifi_exec_in_0"
+      ],
+      [
+        "event_handler_event_out_1",
+        "wifi_reconnect_trigger_in_1"
+      ],
+      [
+        "wifi_reconnect_data_out_3",
+        "storage_manager_data_in_1"
+      ],
+      [
+        "wifi_reconnect_data_out_3",
+        "logger_data_in_0"
+      ],
+      [
+        "wifi_network_out_1",
+        "mqtt_network_in_0"
+      ],
+      [
+        "wifi_reconnect_data_out_3",
+        "mqtt_data_in_1"
+      ],
+      [
+        "wifi_reconnect_exec_out_2",
+        "event_handler_event_in_0"
+      ],
+      [
+        "wifi_reconnect_exec_out_2",
+        "wifi_exec_in_0"
+      ]
+    ],
+    "layout": {
+      "orientation": "",
+      "node_width": 0.0,
+      "layer_gap": 0.0,
+      "node_gap": 0.0
+    }
+  },
+  "title": "Wiring Topology"
+}

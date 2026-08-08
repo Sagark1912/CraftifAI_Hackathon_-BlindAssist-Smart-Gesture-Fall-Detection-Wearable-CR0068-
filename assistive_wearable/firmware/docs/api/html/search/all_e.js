@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['s_0',['s',['../recognizer_8c.html#a76015213fc3dcd27de745f929631716c',1,'recognizer.c']]],
+  ['sample_1',['sample',['../structweb__snapshot__t.html#acb039d7b207450758ae8b2d96055b845',1,'web_snapshot_t']]],
+  ['send_2',['send',['../web__server_8c.html#aab2bd116ec60e9fd2b171513b2f7fbe1',1,'web_server.c']]],
+  ['sequence_3',['Startup sequence',['../index.html#autotoc_md5',1,'']]],
+  ['server_4',['server',['../web__server_8c.html#a021c2db71a5647e2e98217b3f9b5401e',1,'web_server.c']]],
+  ['set_5fevent_5',['set_event',['../recognizer_8c.html#af7ae3f0fad6faf17131c36f92ac1419e',1,'recognizer.c']]],
+  ['shake_5fhigh_6',['shake_high',['../structstate__t.html#ae5d5904500efc92554666f5ba0b9ce8b',1,'state_t']]],
+  ['smart_20assistive_20wearable_7',['Smart Assistive Wearable',['../index.html',1,'']]],
+  ['snapshot_8',['snapshot',['../web__state_8c.html#a6e36b1f5b3b4637c78fd7d4d1f5bdf20',1,'web_state.c']]],
+  ['source_20modules_9',['Source modules',['../index.html#autotoc_md13',1,'']]],
+  ['speech_20behavior_10',['Phone speech behavior',['../index.html#autotoc_md7',1,'']]],
+  ['startup_20sequence_11',['Startup sequence',['../index.html#autotoc_md5',1,'']]],
+  ['state_5fhandler_12',['state_handler',['../web__server_8c.html#af909d45f2a832069a45f3579cb224ad7',1,'web_server.c']]],
+  ['state_5ft_13',['state_t',['../structstate__t.html',1,'']]],
+  ['summary_14',['Project summary',['../index.html#autotoc_md1',1,'']]],
+  ['sys_5femergency_15',['SYS_EMERGENCY',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656ebaadb9bb1c6cbf0c12f70f354e67fabbef',1,'recognizer.h']]],
+  ['sys_5ffall_5fwaiting_16',['SYS_FALL_WAITING',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656ebaa54612d2b50bdf349a97d4d301567960',1,'recognizer.h']]],
+  ['sys_5fmonitoring_17',['SYS_MONITORING',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656ebaa5bc885f737889718213043e6f0a0a0f',1,'recognizer.h']]],
+  ['sys_5fneeds_5fhelp_18',['SYS_NEEDS_HELP',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656eba555d33ccd37a23fdda85851669b01b29',1,'recognizer.h']]],
+  ['sys_5fno_5fresponse_19',['SYS_NO_RESPONSE',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656ebade07e887b2c794bdd51d93a6079f7602',1,'recognizer.h']]],
+  ['sys_5fuser_5fok_20',['SYS_USER_OK',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656eba4c773295a2fe9220a6f4f77122986176',1,'recognizer.h']]],
+  ['system_20architecture_21',['System architecture',['../index.html#autotoc_md2',1,'']]],
+  ['system_5fstate_22',['system_state',['../structrecognition__result__t.html#af5797da251f572d1b870eef4756bce98',1,'recognition_result_t::system_state'],['../structweb__snapshot__t.html#a06bee0ef5cbdb510368ac891a087c7bc',1,'web_snapshot_t::system_state']]],
+  ['system_5fstate_5fname_23',['system_state_name',['../recognizer_8c.html#a3eb002e4caf6eec0ed89b8b9dba87572',1,'system_state_name(system_state_t state):&#160;recognizer.c'],['../recognizer_8h.html#a3eb002e4caf6eec0ed89b8b9dba87572',1,'system_state_name(system_state_t state):&#160;recognizer.c']]],
+  ['system_5fstate_5ft_24',['system_state_t',['../recognizer_8h.html#aeaac97ef8a153a4e1abc636f535656eb',1,'recognizer.h']]]
+];

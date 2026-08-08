@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0.0",
+  "view": "lld",
+  "revision": "3c3853c3017bb4386d31d708b00b840d",
+  "graph_version": 3,
+  "generated_at_ms": 1786179465359,
+  "graph": {
+    "schema_version": 1,
+    "id": "pir_led_web_controller-lld",
+    "name": "led_web_controller topology — LLD",
+    "description": "Low-level design — FreeRTOS and peripheral/service workflow",
+    "nodes": [
+      {
+        "id": "wifi_reconnect",
+        "node_type": "rtos_task",
+        "label": "Task wifi_reconnect",
+        "description": "Executes RTOS loop logic for wifi_reconnect.",
+        "ports": [
+          {
+            "id": "wifi_reconnect::ldd::in",
+            "name": "assoc_in",
+            "direction": "input",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi_reconnect::ldd::out",
+            "name": "assoc_out",
+            "direction": "output",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "task_name": "wifi_reconnect",
+          "priority": 5,
+          "stack_size": 4096,
+          "period_ms": 0.0,
+          "lld_workflow": {
+            "role": "freertos",
+            "node_type": "rtos_task"
+          }
+        },
+        "execution": {
+          "priority": 5,
+          "stack_size": 4096,
+          "period_ms": 0.0
+        },
+        "visual": {
+          "x": -560.0,
+          "y": 0.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "event_handler",
+        "node_type": "event_handler",
+        "label": "Event Handler",
+        "description": "Queues and dispatches asynchronous firmware events.",
+        "ports": [
+          {
+            "id": "event_handler::ldd::in",
+            "name": "assoc_in",
+            "direction": "input",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "event_handler::ldd::out",
+            "name": "assoc_out",
+            "direction": "output",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "event_base": "ESP_EVENT_ANY_BASE",
+          "event_id": -1,
+          "lld_workflow": {
+            "role": "freertos",
+            "node_type": "event_handler"
+          }
+        },
+        "execution": {},
+        "visual": {
+          "x": -232.0,
+          "y": 0.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "storage_manager",
+        "node_type": "storage_manager",
+        "label": "Storage Manager",
+        "description": "Persists runtime state and configuration data.",
+        "ports": [
+          {
+            "id": "storage_manager::ldd::in",
+            "name": "assoc_in",
+            "direction": "input",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "storage_manager::ldd::out",
+            "name": "assoc_out",
+            "direction": "output",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "backend": "nvs",
+          "namespace": "app",
+          "lld_workflow": {
+            "role": "service",
+            "node_type": "storage_manager"
+          }
+        },
+        "execution": {},
+        "visual": {
+          "x": 96.0,
+          "y": 0.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "wifi",
+        "node_type": "wifi_manager",
+        "label": "WiFi",
+        "description": "Manages Wi-Fi connectivity and network state.",
+        "ports": [
+          {
+            "id": "wifi::ldd::in",
+            "name": "assoc_in",
+            "direction": "input",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi::ldd::out",
+            "name": "assoc_out",
+            "direction": "output",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "mode": "station",
+          "lld_workflow": {
+            "role": "service",
+            "node_type": "wifi_manager"
+          }
+        },
+        "execution": {},
+        "visual": {
+          "x": 424.0,
+          "y": 0.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "mqtt",
+        "node_type": "mqtt_client",
+        "label": "MQTT",
+        "description": "Publishes and receives MQTT messages on `esp32/sensor`.",
+        "ports": [
+          {
+            "id": "mqtt::ldd::in",
+            "name": "assoc_in",
+            "direction": "input",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "mqtt::ldd::out",
+            "name": "assoc_out",
+            "direction": "output",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "broker_url": "/api/led/color",
+          "topic": "esp32/sensor",
+          "qos": 0,
+          "lld_workflow": {
+            "role": "service",
+            "node_type": "mqtt_client"
+          }
+        },
+        "execution": {},
+        "visual": {
+          "x": -280.0,
+          "y": 320.0,
+          "layer": 1
+        }
+      },
+      {
+        "id": "logger",
+        "node_type": "logger",
+        "label": "Logger",
+        "description": "Emits structured runtime logs for diagnostics.",
+        "ports": [
+          {
+            "id": "logger::ldd::in",
+            "name": "assoc_in",
+            "direction": "input",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "logger::ldd::out",
+            "name": "assoc_out",
+            "direction": "output",
+            "datatype": "association",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "tag": "APP",
+          "level": "info",
+          "lld_workflow": {
+            "role": "service",
+            "node_type": "logger"
+          }
+        },
+        "execution": {},
+        "visual": {
+          "x": 48.0,
+          "y": 320.0,
+          "layer": 1
+        }
+      }
+    ],
+    "connections": [
+      [
+        "event_handler::ldd::out",
+        "wifi_reconnect::ldd::in"
+      ],
+      [
+        "wifi_reconnect::ldd::out",
+        "storage_manager::ldd::in"
+      ],
+      [
+        "wifi_reconnect::ldd::out",
+        "logger::ldd::in"
+      ],
+      [
+        "wifi::ldd::out",
+        "mqtt::ldd::in"
+      ],
+      [
+        "wifi_reconnect::ldd::out",
+        "mqtt::ldd::in"
+      ],
+      [
+        "wifi_reconnect::ldd::out",
+        "event_handler::ldd::in"
+      ],
+      [
+        "wifi_reconnect::ldd::out",
+        "wifi::ldd::in"
+      ]
+    ],
+    "layout": {
+      "orientation": "vertical",
+      "node_width": 280.0,
+      "layer_gap": 120.0,
+      "node_gap": 48.0
+    },
+    "runtime_metadata": {
+      "telemetry_enabled": false,
+      "overlays": {
+        "diagram_view": "ldd",
+        "ldd_edge_labels": {
+          "wifi_reconnect::ldd::out|event_handler::ldd::in": "signals",
+          "wifi_reconnect::ldd::out|storage_manager::ldd::in": "data_flow",
+          "wifi_reconnect::ldd::out|wifi::ldd::in": "controls",
+          "event_handler::ldd::out|wifi_reconnect::ldd::in": "triggers",
+          "wifi::ldd::out|mqtt::ldd::in": "connects",
+          "wifi_reconnect::ldd::out|mqtt::ldd::in": "data_flow",
+          "wifi_reconnect::ldd::out|logger::ldd::in": "data_flow"
+        }
+      }
+    }
+  },
+  "mermaid": "flowchart TD\n  subgraph freertos_runtime[\"FreeRTOS\"]\n    wifi_reconnect[\"Task wifi_reconnect\"]\n    event_handler[\"Event Handler\"]\n  end\n  storage_manager[\"Storage Manager\"]\n  wifi[\"WiFi\"]\n  mqtt[\"MQTT\"]\n  logger[\"Logger\"]\n  event_handler --> wifi_reconnect\n  wifi --> mqtt\n  wifi_reconnect --> event_handler\n  wifi_reconnect --> logger\n  wifi_reconnect --> mqtt\n  wifi_reconnect --> storage_manager\n  wifi_reconnect --> wifi",
+  "title": "Low-Level Design (Firmware Workflow)"
+}

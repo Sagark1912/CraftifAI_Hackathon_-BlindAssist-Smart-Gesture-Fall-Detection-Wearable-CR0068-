@@ -1,0 +1,32 @@
+#ifndef APP_CONFIG_H
+#define APP_CONFIG_H
+
+#define RGB_LED_GPIO 8
+#define RGB_LED_COUNT 1
+#define RGB_LED_RMT_RESOLUTION_HZ 10000000
+#define RGB_LED_BRIGHTNESS 32
+
+#define STARTUP_BLINK_TIME_MS 300
+#define STARTUP_PAUSE_TIME_MS 200
+#define STARTUP_COLOR_HOLD_MS 500
+
+#define WIFI_SSID "Hotspot"
+#define WIFI_PASSWORD "security"
+#define WIFI_CONNECT_TIMEOUT_MS 15000
+#define WIFI_RECONNECT_DELAY_MS 5000
+#define WIFI_MAX_RETRIES 5
+
+#define HTTP_SERVER_PORT 80
+#define HTTP_MAX_URI_LEN 256
+#define WEB_STATUS_POLL_MS 2000
+
+#define SERIAL_BAUD_RATE 115200
+#define APP_HTTP_STACK_SIZE 6144
+#define APP_WIFI_STACK_SIZE 4096
+#define APP_LED_MUTEX_TIMEOUT_MS 1000
+
+#define APP_CONFIGURED 1
+
+/* GPIO8 carries the addressable pixel data signal; active-low GPIO logic does not apply. */
+
+#endif /* APP_CONFIG_H */

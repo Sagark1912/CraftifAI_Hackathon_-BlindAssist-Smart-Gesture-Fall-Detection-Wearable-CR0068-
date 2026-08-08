@@ -1,0 +1,1741 @@
+warning: Tag 'CLANG_ASSISTED_PARSING' at line 133 of file 'C:\Espressif\projects\my_firmware\assistive_wearable\firmware\docs\api\Doxyfile.generated' belongs to an option that was not enabled at compile time.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u", or recompile doxygen with this feature enabled.
+warning: Tag 'CLANG_OPTIONS' at line 134 of file 'C:\Espressif\projects\my_firmware\assistive_wearable\firmware\docs\api\Doxyfile.generated' belongs to an option that was not enabled at compile time.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u", or recompile doxygen with this feature enabled.
+Adding custom extension mapping: 'ioc' will be treated as language 'c'
+Adding custom extension mapping: 'ld' will be treated as language 'c'
+Adding custom extension mapping: 's' will be treated as language 'c'
+Adding custom extension mapping: 'asm' will be treated as language 'c'
+Doxygen version used: 1.17.0
+Searching for include files...
+Searching for example files...
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdASM
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdC
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdC/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdCXX
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdCXX/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/bootloader.elf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/CMakeScratch
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/git-data
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/pkgRedirects
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/config
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esptool_py
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esptool_py/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_app_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_app_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/lowpower/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_security
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_security/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/freertos/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles/__idf_hal.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src/noos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main/CMakeFiles/__idf_main.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/newlib
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/newlib/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/partition_table/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv/CMakeFiles/__idf_riscv.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/gdbinit
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/src/bootloader-stamp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdASM
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdC
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdC/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdCXX
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdCXX/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/assistive_wearable.elf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/bootloader.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/git-data
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/pkgRedirects
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/config
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update/CMakeFiles/__idf_app_update.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx/CMakeFiles/__idf_cxx.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esptool_py
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esptool_py/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles/__idf_esp_driver_usb_serial_jtag.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles/__idf_esp_driver_usb_serial_jtag.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/util
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/deprecated
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/power_supply
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/lowpower/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif_stack
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif_stack/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/ld
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console/CMakeFiles/__idf_esp_vfs_console.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/regulatory
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles/__idf_hal.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/tlsf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser/CMakeFiles/__idf_http_parser.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/cache
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/linked_list
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/os
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/dhcpserver
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/sntp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/netbiosns
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/sntp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/debug
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32xx
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/app
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/platforms
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/platforms/esp32
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/services
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils/helpers
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils/logger
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/include
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/include/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/aes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/aes/dma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/bignum
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/crypto_shared_gdma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/md
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/sha
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/sha/core
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/pkgconfig
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/pkgconfig/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src/port/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/partition_table/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread/CMakeFiles/__idf_pthread.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv/CMakeFiles/__idf_riscv.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles/__idf_soc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs/CMakeFiles/__idf_vfs.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/gdbinit
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/docs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api/html
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/interfaces
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/modules
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/scripts
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/tests
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/main
+Searching for images...
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdASM
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdC
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdC/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdCXX
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdCXX/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/bootloader.elf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/CMakeScratch
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/git-data
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/pkgRedirects
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/config
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esptool_py
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esptool_py/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_app_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_app_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/lowpower/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_security
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_security/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/freertos/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles/__idf_hal.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src/noos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main/CMakeFiles/__idf_main.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/newlib
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/newlib/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/partition_table/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv/CMakeFiles/__idf_riscv.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/gdbinit
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/src/bootloader-stamp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdASM
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdC
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdC/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdCXX
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdCXX/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/assistive_wearable.elf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/bootloader.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/git-data
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/pkgRedirects
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/config
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update/CMakeFiles/__idf_app_update.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx/CMakeFiles/__idf_cxx.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esptool_py
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esptool_py/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles/__idf_esp_driver_usb_serial_jtag.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles/__idf_esp_driver_usb_serial_jtag.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/util
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/deprecated
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/power_supply
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/lowpower/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif_stack
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif_stack/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/ld
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console/CMakeFiles/__idf_esp_vfs_console.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/regulatory
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles/__idf_hal.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/tlsf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser/CMakeFiles/__idf_http_parser.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/cache
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/linked_list
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/os
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/dhcpserver
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/sntp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/netbiosns
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/sntp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/debug
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32xx
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/app
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/platforms
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/platforms/esp32
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/services
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils/helpers
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils/logger
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/include
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/include/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/aes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/aes/dma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/bignum
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/crypto_shared_gdma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/md
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/sha
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/sha/core
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/pkgconfig
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/pkgconfig/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src/port/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/partition_table/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread/CMakeFiles/__idf_pthread.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv/CMakeFiles/__idf_riscv.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles/__idf_soc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs/CMakeFiles/__idf_vfs.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/gdbinit
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/docs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api/html
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/interfaces
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/modules
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/scripts
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/tests
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/main
+Searching for dot files...
+Searching for msc files...
+Searching for dia files...
+Searching for plantuml files...
+Searching for mermaid files...
+Searching for files to exclude
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api/html
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdASM
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdC
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdC/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdCXX
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/3.30.2/CompilerIdCXX/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/bootloader.elf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/CMakeScratch
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/git-data
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/CMakeFiles/pkgRedirects
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/config
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esptool_py
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esptool_py/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_app_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_app_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/lowpower/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_hw_support/port/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_security
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_security/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/freertos/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles/__idf_hal.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/log/CMakeFiles/__idf_log.dir/src/noos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/main/CMakeFiles/__idf_main.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/newlib
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/newlib/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/partition_table/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/riscv/CMakeFiles/__idf_riscv.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader/gdbinit
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/src/bootloader-stamp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/bootloader-prefix/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdASM
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdC
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdC/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdCXX
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/3.30.2/CompilerIdCXX/tmp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/assistive_wearable.elf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/bootloader.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/git-data
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/CMakeFiles/pkgRedirects
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/config
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/app_update/CMakeFiles/__idf_app_update.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/cxx/CMakeFiles/__idf_cxx.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esptool_py
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esptool_py/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles/__idf_esp_driver_usb_serial_jtag.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_driver_usb_serial_jtag/CMakeFiles/__idf_esp_driver_usb_serial_jtag.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/util
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/deprecated
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/lowpower/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/power_supply
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/lowpower
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/lowpower/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_hw_support/port/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif_stack
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_netif_stack/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/ld
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_system/port/soc/esp32c3/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_vfs_console/CMakeFiles/__idf_esp_vfs_console.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/regulatory
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles/__idf_hal.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/heap/CMakeFiles/__idf_heap.dir/tlsf
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/http_parser/CMakeFiles/__idf_http_parser.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/cache
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/linked_list
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/log/CMakeFiles/__idf_log.dir/src/os
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/dhcpserver
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/sntp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/netbiosns
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/sntp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/debug
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32xx
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/freertos
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/app
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/platforms
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/platforms/esp32
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/services
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils/helpers
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/firmware/utils/logger
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/include
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/include/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/aes
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/aes/dma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/bignum
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/crypto_shared_gdma
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/md
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/sha
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port/sha/core
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/Espressif/esp-idf-release-v5.5/components/mbedtls/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/pkgconfig
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/mbedtls/mbedtls/pkgconfig/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/newlib/src/port/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/partition_table
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/partition_table/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/pthread/CMakeFiles/__idf_pthread.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/riscv/CMakeFiles/__idf_riscv.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles/__idf_soc.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/vfs/CMakeFiles/__idf_vfs.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_common
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/gdbinit
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/log
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/build/partition_table
+Searching INPUT for files to process...
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/docs/api
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/interfaces
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/modules
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/scripts
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/tests
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers
+Searching for files in directory C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger
+Reading and parsing tag files
+Parsing files
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app/app.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app/app.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app/app.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/app/app.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs/app_config.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs/app_config.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs/build_config.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs/build_config.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs/platform_config.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/configs/platform_config.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/interfaces/imu_if.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/interfaces/imu_if.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/imu_mpu6050.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/imu_mpu6050.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/mpu6050.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/mpu6050.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/mpu6050.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/mpu6050.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/web_server.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/web_server.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/web_server.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/platforms/esp32/web_server.h...
+Reading C:/Espressif/projects/my_firmware/assistive_wearable/firmware/README.md...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/recognizer.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/recognizer.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/recognizer.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/recognizer.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/web_state.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/web_state.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/web_state.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/services/web_state.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers/helpers.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers/helpers.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers/helpers.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/helpers/helpers.h...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger/logger.c...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger/logger.c...
+Preprocessing C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger/logger.h...
+Parsing file C:/Espressif/projects/my_firmware/assistive_wearable/firmware/utils/logger/logger.h...
+Building macro definition list...
+Building group list...
+Building directory list...
+Building namespace list...
+Building file list...
+Building class list...
+Building concept list...
+Computing nesting relations for classes...
+Associating documentation with classes...
+Associating documentation with concepts...
+Associating documentation with modules...
+Building example list...
+Searching for enumerations...
+Searching for documented typedefs...
+Searching for members imported via using declarations...
+Searching for included using directives...
+Searching for documented variables...
+Building interface member list...
+Building member list...
+Searching for friends...
+Searching for documented defines...
+Computing class inheritance relations...
+Computing class usage relations...
+Flushing cached template relations that have become invalid...
+Warn for undocumented namespaces...
+Computing class relations...
+Add enum values to enums...
+Searching for member function documentation...
+Creating members for template instances...
+Building page list...
+Building requirements list...
+Search for main page...
+Computing page relations...
+Determining the scope of groups...
+Computing module relations...
+Sorting lists...
+Determining which enums are documented
+Computing member relations...
+Building full member lists recursively...
+Adding members to member groups.
+Distributing member group documentation.
+Computing member references...
+Inheriting documentation...
+Generating disk names...
+Adding source references...
+Adding xrefitems...
+Adding requirements...
+Sorting member lists...
+Setting anonymous enum type...
+Computing dependencies between directories...
+Generating citations page...
+Counting members...
+Counting data structures...
+Resolving user defined references...
+Finding anchors and sections in the documentation...
+Transferring function references...
+Combining using relations...
+Adding members to index pages...
+Correcting members for VHDL...
+Computing tooltip texts...
+Generating style sheet...
+Generating search indices...
+Generating example documentation...
+Generating file sources...
+Generating code for file firmware/app/app.c...
+Generating code for file firmware/app/app.h...
+Generating code for file firmware/configs/app_config.h...
+Generating code for file firmware/configs/build_config.h...
+Generating code for file firmware/configs/platform_config.h...
+Generating code for file firmware/interfaces/imu_if.h...
+Generating code for file firmware/platforms/esp32/imu_mpu6050.c...
+Generating code for file firmware/platforms/esp32/mpu6050.c...
+Generating code for file firmware/platforms/esp32/mpu6050.h...
+Generating code for file firmware/platforms/esp32/web_server.c...
+Generating code for file firmware/platforms/esp32/web_server.h...
+Parsing code for file firmware/README.md...
+Generating code for file firmware/services/recognizer.c...
+Generating code for file firmware/services/recognizer.h...
+Generating code for file firmware/services/web_state.c...
+Generating code for file firmware/services/web_state.h...
+Generating code for file firmware/utils/helpers/helpers.c...
+Generating code for file firmware/utils/helpers/helpers.h...
+Generating code for file firmware/utils/logger/logger.c...
+Generating code for file firmware/utils/logger/logger.h...
+Generating file documentation...
+Generating docs for file firmware/app/app.c...
+Generating call graph for function app_start
+Generating docs for file firmware/app/app.h...
+Generating call graph for function app_start
+Generating docs for file firmware/configs/app_config.h...
+Generating docs for file firmware/configs/build_config.h...
+Generating docs for file firmware/configs/platform_config.h...
+Generating docs for file firmware/interfaces/imu_if.h...
+Generating call graph for function imu_calibrate
+Generating caller graph for function imu_calibrate
+Generating call graph for function imu_init
+Generating caller graph for function imu_init
+Generating call graph for function imu_read
+Generating caller graph for function imu_read
+Generating docs for file firmware/platforms/esp32/imu_mpu6050.c...
+Generating call graph for function imu_calibrate
+Generating caller graph for function imu_calibrate
+Generating call graph for function imu_init
+Generating caller graph for function imu_init
+Generating call graph for function imu_read
+Generating caller graph for function imu_read
+Generating docs for file firmware/platforms/esp32/mpu6050.c...
+Generating call graph for function mpu6050_calibrate
+Generating caller graph for function mpu6050_calibrate
+Generating call graph for function mpu6050_init
+Generating caller graph for function mpu6050_init
+Generating call graph for function mpu6050_read
+Generating caller graph for function mpu6050_read
+Generating caller graph for function reg_read
+Generating caller graph for function reg_write
+Generating docs for file firmware/platforms/esp32/mpu6050.h...
+Generating call graph for function mpu6050_calibrate
+Generating caller graph for function mpu6050_calibrate
+Generating call graph for function mpu6050_init
+Generating caller graph for function mpu6050_init
+Generating call graph for function mpu6050_read
+Generating caller graph for function mpu6050_read
+Generating docs for file firmware/platforms/esp32/web_server.c...
+Generating call graph for function history_handler
+Generating caller graph for function history_handler
+Generating call graph for function root_handler
+Generating caller graph for function root_handler
+Generating caller graph for function send
+Generating call graph for function state_handler
+Generating caller graph for function state_handler
+Generating call graph for function web_server_init
+Generating caller graph for function web_server_init
+Generating caller graph for function web_server_ip
+Generating caller graph for function web_server_is_connected
+Generating caller graph for function wifi_handler
+Generating docs for file firmware/platforms/esp32/web_server.h...
+Generating call graph for function web_server_init
+Generating caller graph for function web_server_init
+Generating caller graph for function web_server_ip
+Generating caller graph for function web_server_is_connected
+Generating docs for file firmware/README.md...
+Generating docs for file firmware/services/recognizer.c...
+Generating caller graph for function activity_name
+Generating caller graph for function recognizer_init
+Generating call graph for function recognizer_update
+Generating caller graph for function recognizer_update
+Generating caller graph for function set_event
+Generating caller graph for function system_state_name
+Generating docs for file firmware/services/recognizer.h...
+Generating caller graph for function activity_name
+Generating caller graph for function recognizer_init
+Generating call graph for function recognizer_update
+Generating caller graph for function recognizer_update
+Generating caller graph for function system_state_name
+Generating docs for file firmware/services/web_state.c...
+Generating caller graph for function web_history_json
+Generating caller graph for function web_state_init
+Generating call graph for function web_state_json
+Generating caller graph for function web_state_json
+Generating caller graph for function web_state_record_event
+Generating caller graph for function web_state_update
+Generating docs for file firmware/services/web_state.h...
+Generating caller graph for function web_history_json
+Generating caller graph for function web_state_init
+Generating call graph for function web_state_json
+Generating caller graph for function web_state_json
+Generating caller graph for function web_state_record_event
+Generating caller graph for function web_state_update
+Generating docs for file firmware/utils/helpers/helpers.c...
+Generating docs for file firmware/utils/helpers/helpers.h...
+Generating docs for file firmware/utils/logger/logger.c...
+Generating docs for file firmware/utils/logger/logger.h...
+Generating page documentation...
+Generating group documentation...
+Generating class documentation...
+Generating docs for compound history_item_t...
+Generating docs for compound imu_sample_t...
+Generating docs for compound mpu6050_sample_t...
+Generating docs for compound recognition_result_t...
+Generating docs for compound state_t...
+Generating docs for compound web_snapshot_t...
+Generating concept documentation...
+Generating module documentation...
+Generating namespace documentation...
+Generating graph info page...
+Generating directory documentation...
+Generating dependency graph for directory firmware/app
+Generating dependency graph for directory firmware/configs
+Generating dependency graph for directory firmware/platforms/esp32
+Generating dependency graph for directory firmware
+Generating dependency graph for directory firmware/utils/helpers
+Generating dependency graph for directory firmware/interfaces
+Generating dependency graph for directory firmware/utils/logger
+Generating dependency graph for directory firmware/platforms
+Generating dependency graph for directory firmware/services
+Generating dependency graph for directory firmware/utils
+Generating index page...
+Generating main page...
+Generating page index...
+Generating topic index...
+Generating module index...
+Generating module member index...
+Generating namespace index...
+Generating namespace member index...
+Generating concept index...
+Generating annotated compound index...
+Generating alphabetical compound index...
+Generating hierarchical class index...
+Generating graphical class hierarchy...
+Generating member index...
+Generating file index...
+Generating file member index...
+Generating example index...
+finalizing index lists...
+writing tag file...
+Running plantuml with JAVA...
+Running mermaid (mmdc)...
+Running dot...
+Generating 107 dot graphs using 13 parallel threads with batch size 50...
+Finished running dot for graphs 1-9/107
+Finished running dot for graphs 10-18/107
+Finished running dot for graphs 19-27/107
+Finished running dot for graphs 28-35/107
+Finished running dot for graphs 36-43/107
+Finished running dot for graphs 44-51/107
+Finished running dot for graphs 52-59/107
+Finished running dot for graphs 60-67/107
+Finished running dot for graphs 68-75/107
+Finished running dot for graphs 76-83/107
+Finished running dot for graphs 84-91/107
+Finished running dot for graphs 92-99/107
+Finished running dot for graphs 100-107/107
+Patching output file 1/140
+Patching output file 2/140
+Patching output file 3/140
+Patching output file 4/140
+Patching output file 5/140
+Patching output file 6/140
+Patching output file 7/140
+Patching output file 8/140
+Patching output file 9/140
+Patching output file 10/140
+Patching output file 11/140
+Patching output file 12/140
+Patching output file 13/140
+Patching output file 14/140
+Patching output file 15/140
+Patching output file 16/140
+Patching output file 17/140
+Patching output file 18/140
+Patching output file 19/140
+Patching output file 20/140
+Patching output file 21/140
+Patching output file 22/140
+Patching output file 23/140
+Patching output file 24/140
+Patching output file 25/140
+Patching output file 26/140
+Patching output file 27/140
+Patching output file 28/140
+Patching output file 29/140
+Patching output file 30/140
+Patching output file 31/140
+Patching output file 32/140
+Patching output file 33/140
+Patching output file 34/140
+Patching output file 35/140
+Patching output file 36/140
+Patching output file 37/140
+Patching output file 38/140
+Patching output file 39/140
+Patching output file 40/140
+Patching output file 41/140
+Patching output file 42/140
+Patching output file 43/140
+Patching output file 44/140
+Patching output file 45/140
+Patching output file 46/140
+Patching output file 47/140
+Patching output file 48/140
+Patching output file 49/140
+Patching output file 50/140
+Patching output file 51/140
+Patching output file 52/140
+Patching output file 53/140
+Patching output file 54/140
+Patching output file 55/140
+Patching output file 56/140
+Patching output file 57/140
+Patching output file 58/140
+Patching output file 59/140
+Patching output file 60/140
+Patching output file 61/140
+Patching output file 62/140
+Patching output file 63/140
+Patching output file 64/140
+Patching output file 65/140
+Patching output file 66/140
+Patching output file 67/140
+Patching output file 68/140
+Patching output file 69/140
+Patching output file 70/140
+Patching output file 71/140
+Patching output file 72/140
+Patching output file 73/140
+Patching output file 74/140
+Patching output file 75/140
+Patching output file 76/140
+Patching output file 77/140
+Patching output file 78/140
+Patching output file 79/140
+Patching output file 80/140
+Patching output file 81/140
+Patching output file 82/140
+Patching output file 83/140
+Patching output file 84/140
+Patching output file 85/140
+Patching output file 86/140
+Patching output file 87/140
+Patching output file 88/140
+Patching output file 89/140
+Patching output file 90/140
+Patching output file 91/140
+Patching output file 92/140
+Patching output file 93/140
+Patching output file 94/140
+Patching output file 95/140
+Patching output file 96/140
+Patching output file 97/140
+Patching output file 98/140
+Patching output file 99/140
+Patching output file 100/140
+Patching output file 101/140
+Patching output file 102/140
+Patching output file 103/140
+Patching output file 104/140
+Patching output file 105/140
+Patching output file 106/140
+Patching output file 107/140
+Patching output file 108/140
+Patching output file 109/140
+Patching output file 110/140
+Patching output file 111/140
+Patching output file 112/140
+Patching output file 113/140
+Patching output file 114/140
+Patching output file 115/140
+Patching output file 116/140
+Patching output file 117/140
+Patching output file 118/140
+Patching output file 119/140
+Patching output file 120/140
+Patching output file 121/140
+Patching output file 122/140
+Patching output file 123/140
+Patching output file 124/140
+Patching output file 125/140
+Patching output file 126/140
+Patching output file 127/140
+Patching output file 128/140
+Patching output file 129/140
+Patching output file 130/140
+Patching output file 131/140
+Patching output file 132/140
+Patching output file 133/140
+Patching output file 134/140
+Patching output file 135/140
+Patching output file 136/140
+Patching output file 137/140
+Patching output file 138/140
+Patching output file 139/140
+Patching output file 140/140
+type lookup cache used 219/262144 hits=686 misses=358
+symbol lookup cache used 426/262144 hits=704 misses=426
+finished...

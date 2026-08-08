@@ -1,0 +1,37 @@
+#ifndef APP_CONFIG_H
+#define APP_CONFIG_H
+
+/* ESP32-C3-DevKitM-1 + one MPU6050 only. */
+#define APP_I2C_SDA_GPIO 5
+#define APP_I2C_SCL_GPIO 4
+#define APP_I2C_FREQUENCY_HZ 100000
+#define APP_MPU6050_ADDRESS 0x68
+#define APP_SAMPLE_HZ 100
+
+/* Local credentials. Keep this file private when using real credentials. */
+#define APP_WIFI_SSID "Hotspot"
+#define APP_WIFI_PASSWORD "security"
+#define APP_BLYNK_TEMPLATE_ID "TMPL6H7bh4Ptg"
+#define APP_BLYNK_TEMPLATE_NAME "Blind Assist Wearable"
+#define APP_BLYNK_TOKEN "YOUR_BLYNK_DEVICE_TOKEN"
+#define APP_BLYNK_HOST "https://blynk.cloud"
+
+#define APP_CALIBRATION_SECONDS 5
+#define APP_TELEMETRY_PERIOD_MS 1000
+#define APP_GESTURE_COOLDOWN_MS 1200
+#define APP_GESTURE_MIN_DURATION_MS 120
+#define APP_GESTURE_MAX_DURATION_MS 900
+#define APP_SHAKE_PAIR_WINDOW_MS 900
+#define APP_FALL_CONFIRM_MS 3000
+#define APP_FALL_RESPONSE_TIMEOUT_MS 15000
+#define APP_FALL_INACTIVITY_MS 1200
+#define APP_FALL_IMPACT_G 1.60f
+#define APP_FALL_JERK_G 0.80f
+#define APP_FALL_GYRO_DPS 120.0f
+#define APP_FALL_POSTURE_DEG 55.0f
+#define APP_GESTURE_TILT_DEG 30.0f
+#define APP_GESTURE_GYRO_DPS 35.0f
+#define APP_SHAKE_GYRO_DPS 90.0f
+#define APP_SHAKE_DYNAMIC_G 0.35f
+
+#endif

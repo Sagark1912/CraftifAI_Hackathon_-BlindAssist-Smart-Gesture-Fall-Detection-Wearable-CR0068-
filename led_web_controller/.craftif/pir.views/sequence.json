@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0.0",
+  "view": "sequence",
+  "revision": "3c3853c3017bb4386d31d708b00b840d",
+  "graph_version": 3,
+  "generated_at_ms": 1786179465360,
+  "graph": {
+    "schema_version": 1,
+    "id": "pir_led_web_controller-sequence",
+    "name": "led_web_controller topology — Sequence",
+    "description": "Execution and initialization order",
+    "nodes": [
+      {
+        "id": "boot",
+        "node_type": "system_init",
+        "label": "1. Boot / app_main",
+        "description": "Bootstraps firmware startup and initializes core subsystems.",
+        "ports": [
+          {
+            "id": "boot::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "boot::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "target": "esp32c3"
+        },
+        "execution": {},
+        "visual": {
+          "x": 0.0,
+          "y": 80.0,
+          "layer": 0
+        }
+      },
+      {
+        "id": "wifi_reconnect",
+        "node_type": "rtos_task",
+        "label": "2. Task wifi_reconnect",
+        "description": "Executes RTOS loop logic for wifi_reconnect.",
+        "ports": [
+          {
+            "id": "wifi_reconnect::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi_reconnect::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "task_name": "wifi_reconnect",
+          "priority": 5,
+          "stack_size": 4096,
+          "period_ms": 0.0
+        },
+        "execution": {
+          "priority": 5,
+          "stack_size": 4096,
+          "period_ms": 0.0
+        },
+        "visual": {
+          "x": 320.0,
+          "y": 80.0,
+          "layer": 1
+        }
+      },
+      {
+        "id": "storage_manager",
+        "node_type": "storage_manager",
+        "label": "3. Storage Manager",
+        "description": "Persists runtime state and configuration data.",
+        "ports": [
+          {
+            "id": "storage_manager::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "storage_manager::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "backend": "nvs",
+          "namespace": "app"
+        },
+        "execution": {},
+        "visual": {
+          "x": 640.0,
+          "y": 80.0,
+          "layer": 2
+        }
+      },
+      {
+        "id": "logger",
+        "node_type": "logger",
+        "label": "4. Logger",
+        "description": "Emits structured runtime logs for diagnostics.",
+        "ports": [
+          {
+            "id": "logger::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "logger::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "tag": "APP",
+          "level": "info"
+        },
+        "execution": {},
+        "visual": {
+          "x": 960.0,
+          "y": 80.0,
+          "layer": 3
+        }
+      },
+      {
+        "id": "wifi",
+        "node_type": "wifi_manager",
+        "label": "5. WiFi",
+        "description": "Manages Wi-Fi connectivity and network state.",
+        "ports": [
+          {
+            "id": "wifi::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "wifi::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "mode": "station"
+        },
+        "execution": {},
+        "visual": {
+          "x": 1280.0,
+          "y": 80.0,
+          "layer": 4
+        }
+      },
+      {
+        "id": "mqtt",
+        "node_type": "mqtt_client",
+        "label": "6. MQTT",
+        "description": "Publishes and receives MQTT messages on `esp32/sensor`.",
+        "ports": [
+          {
+            "id": "mqtt::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "mqtt::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "broker_url": "/api/led/color",
+          "topic": "esp32/sensor",
+          "qos": 0
+        },
+        "execution": {},
+        "visual": {
+          "x": 1600.0,
+          "y": 80.0,
+          "layer": 5
+        }
+      },
+      {
+        "id": "event_handler",
+        "node_type": "event_handler",
+        "label": "7. Event Handler",
+        "description": "Queues and dispatches asynchronous firmware events.",
+        "ports": [
+          {
+            "id": "event_handler::in",
+            "name": "in",
+            "direction": "input",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          },
+          {
+            "id": "event_handler::out",
+            "name": "out",
+            "direction": "output",
+            "datatype": "any",
+            "required": false,
+            "multiplicity": "one"
+          }
+        ],
+        "properties": {
+          "event_base": "ESP_EVENT_ANY_BASE",
+          "event_id": -1
+        },
+        "execution": {},
+        "visual": {
+          "x": 1920.0,
+          "y": 80.0,
+          "layer": 6
+        }
+      }
+    ],
+    "connections": [
+      [
+        "boot::out",
+        "wifi_reconnect::in"
+      ],
+      [
+        "boot::out",
+        "storage_manager::in"
+      ],
+      [
+        "boot::out",
+        "logger::in"
+      ],
+      [
+        "boot::out",
+        "wifi::in"
+      ],
+      [
+        "wifi_reconnect::out",
+        "storage_manager::in"
+      ],
+      [
+        "wifi_reconnect::out",
+        "logger::in"
+      ],
+      [
+        "wifi_reconnect::out",
+        "wifi::in"
+      ],
+      [
+        "wifi_reconnect::out",
+        "mqtt::in"
+      ],
+      [
+        "wifi_reconnect::out",
+        "event_handler::in"
+      ],
+      [
+        "wifi::out",
+        "mqtt::in"
+      ],
+      [
+        "event_handler::out",
+        "wifi_reconnect::in"
+      ]
+    ],
+    "layout": {
+      "orientation": "horizontal",
+      "node_width": 0.0,
+      "layer_gap": 0.0,
+      "node_gap": 0.0
+    }
+  },
+  "mermaid": "sequenceDiagram\n    participant boot as 1. Boot / app_main\n    participant wifi_reconnect as 2. Task wifi_reconnect\n    participant storage_manager as 3. Storage Manager\n    participant logger as 4. Logger\n    participant wifi as 5. WiFi\n    participant mqtt as 6. MQTT\n    participant event_handler as 7. Event Handler\n    boot->>wifi_reconnect: spawns\n    boot->>storage_manager: initializes\n    boot->>logger: initializes\n    boot->>wifi: initializes\n    wifi_reconnect->>storage_manager: data_flow\n    wifi_reconnect->>logger: data_flow\n    wifi_reconnect->>wifi: controls\n    wifi_reconnect->>mqtt: data_flow\n    wifi_reconnect->>event_handler: signals\n    wifi->>mqtt: connects\n    event_handler->>wifi_reconnect: triggers",
+  "title": "Sequence Diagram"
+}

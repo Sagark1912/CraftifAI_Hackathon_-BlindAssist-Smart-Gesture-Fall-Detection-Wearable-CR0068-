@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['act_5ffall_5fcandidate_0',['ACT_FALL_CANDIDATE',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79baf58ddab2434ce11e40c300c2c81adef3',1,'recognizer.h']]],
+  ['act_5ffall_5fconfirmed_1',['ACT_FALL_CONFIRMED',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79ba4755925b3288e2a6e074e3c633ec1633',1,'recognizer.h']]],
+  ['act_5fidle_2',['ACT_IDLE',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79ba8e55217445b7bb06d68701411104e04b',1,'recognizer.h']]],
+  ['act_5frunning_3',['ACT_RUNNING',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79bacd4d051f204055f778e3d57e5493c1d1',1,'recognizer.h']]],
+  ['act_5fsitting_4',['ACT_SITTING',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79ba43b4fc47dc6f1564ce1bf50bdfdf1c17',1,'recognizer.h']]],
+  ['act_5fstanding_5',['ACT_STANDING',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79ba0032f7c3d831ebe5d8263d8f527990ab',1,'recognizer.h']]],
+  ['act_5fwalking_6',['ACT_WALKING',['../recognizer_8h.html#a635ddf36723965acaa7cf3fc2356c79ba0ca6671ee5ae259ac590329079b3ba3b',1,'recognizer.h']]],
+  ['action_5fbackward_5fcancel_7',['ACTION_BACKWARD_CANCEL',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394baf7e8cda43643fcf99104a11bdca1ccfa',1,'recognizer.h']]],
+  ['action_5fdouble_5fshake_5femergency_8',['ACTION_DOUBLE_SHAKE_EMERGENCY',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394bacb5708698f397c0b4db9fc387c113ed4',1,'recognizer.h']]],
+  ['action_5ffall_5fdetected_9',['ACTION_FALL_DETECTED',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394ba895283331f8be155069895c2c90c41d0',1,'recognizer.h']]],
+  ['action_5fforward_5fconfirm_10',['ACTION_FORWARD_CONFIRM',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394ba31918f731cc1eb50c99faac74f70e2cd',1,'recognizer.h']]],
+  ['action_5fleft_5fok_11',['ACTION_LEFT_OK',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394baba403a1923e74b8aaaaf9271710e4500',1,'recognizer.h']]],
+  ['action_5fno_5fresponse_12',['ACTION_NO_RESPONSE',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394ba1974b2e0350701c0b5a45812d9fe3e1b',1,'recognizer.h']]],
+  ['action_5fnone_13',['ACTION_NONE',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394babb516226f3df30c332c998da773f56db',1,'recognizer.h']]],
+  ['action_5fright_5fhelp_14',['ACTION_RIGHT_HELP',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394ba71c8ac99cb20dc03448e6de9fea4ec68',1,'recognizer.h']]],
+  ['action_5fsingle_5fshake_5frepeat_15',['ACTION_SINGLE_SHAKE_REPEAT',['../recognizer_8h.html#acb211f93bc1624b2f1d7468d23c3394ba9871c65ed170e2c4dc90daa9edf89e80',1,'recognizer.h']]]
+];
