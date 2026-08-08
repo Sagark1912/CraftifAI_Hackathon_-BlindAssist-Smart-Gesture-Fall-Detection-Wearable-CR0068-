@@ -1,0 +1,178 @@
+INFO: Using IDF_PATH 'C:\Espressif\esp-idf-release-v5.5' for installation.
+Installing ESP-IDF tools
+Selected targets are: esp32c3
+Current system platform: win64
+Installing tools: riscv32-esp-elf-gdb, riscv32-esp-elf, cmake, openocd-esp32, ninja, idf-exe, ccache, esp-rom-elfs
+Skipping riscv32-esp-elf-gdb@16.2_20250324 (already installed)
+Skipping riscv32-esp-elf@esp-14.2.0_20241119 (already installed)
+Skipping cmake@3.30.2 (already installed)
+Skipping openocd-esp32@v0.12.0-esp32-20250422 (already installed)
+Skipping ninja@1.12.1 (already installed)
+Skipping idf-exe@1.0.3 (already installed)
+Skipping ccache@4.10.2 (already installed)
+Skipping esp-rom-elfs@20241011 (already installed)
+Setting up Python environment
+Python 3.12.10
+pip 26.2.1 from E:\APPS\Espressif\python_env\idf5.5_py3.12_env\Lib\site-packages\pip (python 3.12)
+Requirement already satisfied: pip in E:\APPS\Espressif\python_env\idf5.5_py3.12_env\Lib\site-packages (26.2.1)
+Requirement already satisfied: setuptools in E:\APPS\Espressif\python_env\idf5.5_py3.12_env\Lib\site-packages (83.0.0)
+Looking in indexes: https://pypi.org/simple, https://dl.espressif.com/pypi
+Ignoring importlib_metadata: markers 'python_version < "3.8"' don't match your environment
+Requirement already satisfied: setuptools in E:\APPS\Espressif\python_env\idf5.5_py3.12_env\Lib\site-packages (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 7)) (83.0.0)
+Collecting packaging (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 8))
+  Downloading packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting click (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 11))
+  Downloading click-8.1.8-py3-none-any.whl (98 kB)
+Collecting pyserial (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 12))
+  Downloading pyserial-3.5-py2.py3-none-any.whl (90 kB)
+Collecting cryptography (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 13))
+  Downloading cryptography-44.0.3-cp39-abi3-win_amd64.whl (3.2 MB)
+     ---------------------------------------- 3.2/3.2 MB 9.4 MB/s  0:00:00
+Collecting pyparsing (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 14))
+  Downloading pyparsing-3.2.5-py3-none-any.whl.metadata (5.0 kB)
+Collecting pyelftools (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 15))
+  Downloading pyelftools-0.33-py3-none-any.whl (201 kB)
+Collecting idf-component-manager~=2.2 (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading idf_component_manager-2.5.0-py3-none-any.whl (184 kB)
+Collecting esp-coredump (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 17))
+  Downloading esp_coredump-1.16.0-py3-none-any.whl (43 kB)
+Collecting esptool (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading esptool-4.12.0.tar.gz (463 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting esp-idf-kconfig (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 19))
+  Downloading esp_idf_kconfig-2.5.4-py3-none-any.whl (146 kB)
+Collecting esp-idf-monitor (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 20))
+  Downloading esp_idf_monitor-1.9.0-py3-none-any.whl (58 kB)
+Collecting esp-idf-nvs-partition-gen (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 21))
+  Downloading esp_idf_nvs_partition_gen-0.1.9-py3-none-any.whl (22 kB)
+Collecting esp-idf-size (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 22))
+  Downloading esp_idf_size-1.7.1-py3-none-any.whl (82 kB)
+Collecting esp-idf-diag (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 23))
+  Downloading esp_idf_diag-0.2.0-py3-none-any.whl (23 kB)
+Collecting esp-idf-panic-decoder (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 24))
+  Downloading esp_idf_panic_decoder-1.5.0-py3-none-any.whl (21 kB)
+Collecting pyclang (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 25))
+  Downloading pyclang-0.7.0-py3-none-any.whl (13 kB)
+Collecting construct (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 26))
+  Downloading construct-2.10.70-py3-none-any.whl (63 kB)
+Collecting rich (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 27))
+  Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+Collecting psutil (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 28))
+  Downloading psutil-7.2.2-cp37-abi3-win_amd64.whl (137 kB)
+Collecting freertos_gdb (from -r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 31))
+  Downloading freertos_gdb-1.0.4-py3-none-any.whl (14 kB)
+Collecting colorama (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting ruamel.yaml (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading ruamel_yaml-0.19.1-py3-none-any.whl (118 kB)
+Collecting requests (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting requests-file (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading requests_file-3.0.1-py2.py3-none-any.whl (4.5 kB)
+Collecting requests-toolbelt (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl (54 kB)
+Collecting tqdm (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading tqdm-4.70.0-py3-none-any.whl (80 kB)
+Collecting jsonref (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading jsonref-1.1.0-py3-none-any.whl (9.4 kB)
+Collecting pydantic!=2.12.0 (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading pydantic-2.13.4-py3-none-any.whl.metadata (109 kB)
+Collecting pydantic-core (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading pydantic_core-2.48.0-cp312-cp312-win_amd64.whl.metadata (6.6 kB)
+Collecting pydantic-settings (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading pydantic_settings-2.15.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting pathvalidate (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading pathvalidate-3.3.1-py3-none-any.whl.metadata (12 kB)
+Collecting truststore (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading truststore-0.10.4-py3-none-any.whl (18 kB)
+Collecting cffi>=1.12 (from cryptography->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 13))
+  Downloading cffi-2.1.1-cp312-cp312-win_amd64.whl.metadata (2.6 kB)
+Collecting pygdbmi>=0.9.0.2 (from esp-coredump->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 17))
+  Downloading pygdbmi-0.11.0.0-py3-none-any.whl (21 kB)
+Collecting bitstring!=4.2.0,>=3.1.6 (from esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading bitstring-4.4.0-py3-none-any.whl (76 kB)
+Collecting ecdsa>=0.16.0 (from esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading ecdsa-0.19.2-py2.py3-none-any.whl (150 kB)
+Collecting reedsolo<1.8,>=1.5.3 (from esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading reedsolo-1.7.0-py3-none-any.whl (32 kB)
+Collecting PyYAML>=5.1 (from esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading pyyaml-6.0.3-cp312-cp312-win_amd64.whl (154 kB)
+Collecting intelhex (from esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading intelhex-2.3.0-py2.py3-none-any.whl (50 kB)
+Collecting windows-curses (from esp-idf-kconfig->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 19))
+  Downloading windows_curses-2.4.2-cp312-cp312-win_amd64.whl (82 kB)
+Collecting esp-pylib>=1.1.1 (from esp-pylib[cli]>=1.1.1->pyclang->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 25))
+  Downloading esp_pylib-1.1.2-py3-none-any.whl (58 kB)
+Collecting markdown-it-py>=2.2.0 (from rich->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 27))
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 27))
+  Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+     ---------------------------------------- 1.2/1.2 MB 5.2 MB/s  0:00:00
+Collecting bitarray<4.0,>=3.0.0 (from bitstring!=4.2.0,>=3.1.6->esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading bitarray-3.10.1-cp312-cp312-win_amd64.whl.metadata (37 kB)
+Collecting tibs<0.6,>=0.5.6 (from bitstring!=4.2.0,>=3.1.6->esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading tibs-0.5.7-cp38-abi3-win_amd64.whl (304 kB)
+Collecting pycparser (from cffi>=1.12->cryptography->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 13))
+  Downloading pycparser-3.0-py3-none-any.whl (48 kB)
+Collecting six>=1.9.0 (from ecdsa>=0.16.0->esptool->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 18))
+  Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Collecting rich-click<2,>=1.7 (from esp-pylib[cli]>=1.1.1->pyclang->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 25))
+  Downloading rich_click-1.9.8-py3-none-any.whl (72 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 27))
+  Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Collecting annotated-types>=0.6.0 (from pydantic!=2.12.0->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading annotated_types-0.8.0-py3-none-any.whl.metadata (15 kB)
+Collecting pydantic-core (from idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading pydantic_core-2.46.4-cp312-cp312-win_amd64.whl.metadata (6.7 kB)
+Collecting typing-extensions>=4.14.1 (from pydantic!=2.12.0->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Collecting typing-inspection>=0.4.2 (from pydantic!=2.12.0->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+Collecting python-dotenv>=0.21.0 (from pydantic-settings->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading python_dotenv-1.2.2-py3-none-any.whl (22 kB)
+Collecting charset_normalizer<4,>=2 (from requests->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading charset_normalizer-3.4.9-cp312-cp312-win_amd64.whl.metadata (42 kB)
+Collecting idna<4,>=2.5 (from requests->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading idna-3.18-py3-none-any.whl.metadata (6.1 kB)
+Collecting urllib3<3,>=1.26 (from requests->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading urllib3-1.26.20-py2.py3-none-any.whl (144 kB)
+Collecting certifi>=2023.5.7 (from requests->idf-component-manager~=2.2->-r C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt (line 16))
+  Downloading certifi-2026.7.22-py3-none-any.whl (136 kB)
+Downloading packaging-26.3-py3-none-any.whl (129 kB)
+Downloading pyparsing-3.2.5-py3-none-any.whl (113 kB)
+Downloading bitarray-3.10.1-cp312-cp312-win_amd64.whl (165 kB)
+Downloading cffi-2.1.1-cp312-cp312-win_amd64.whl (185 kB)
+Downloading pydantic-2.13.4-py3-none-any.whl (472 kB)
+Downloading pydantic_core-2.46.4-cp312-cp312-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 3.2 MB/s  0:00:00
+Downloading annotated_types-0.8.0-py3-none-any.whl (13 kB)
+Downloading pathvalidate-3.3.1-py3-none-any.whl (24 kB)
+Downloading pydantic_settings-2.15.0-py3-none-any.whl (69 kB)
+Downloading requests-2.34.2-py3-none-any.whl (73 kB)
+Downloading charset_normalizer-3.4.9-cp312-cp312-win_amd64.whl (162 kB)
+Downloading idna-3.18-py3-none-any.whl (65 kB)
+Building wheels for collected packages: esptool
+  Building wheel for esptool (pyproject.toml): started
+  Building wheel for esptool (pyproject.toml): finished with status 'done'
+  Created wheel for esptool: filename=esptool-4.12.0-py3-none-any.whl size=613231 sha256=b865be06d33b2783d30b9d28846c90ec7d4b2346cd9a2b4652e9acde436b770f
+  Stored in directory: D:\TEMP\pip-ephem-wheel-cache-06myi_o9\wheels\8e\95\c0\03b414199505d3d22b6a9843a9e3cb2db9d72673433364f6f4
+Successfully built esptool
+Installing collected packages: windows-curses, reedsolo, pyserial, pygdbmi, intelhex, urllib3, typing-extensions, truststore, tibs, six, ruamel.yaml, PyYAML, python-dotenv, pyparsing, pygments, pyelftools, pycparser, psutil, pathvalidate, packaging, mdurl, jsonref, idna, freertos_gdb, esp-idf-kconfig, construct, colorama, charset_normalizer, certifi, bitarray, annotated-types, typing-inspection, tqdm, requests, pydantic-core, markdown-it-py, esp-idf-panic-decoder, ecdsa, click, cffi, bitstring, rich, requests-toolbelt, requests-file, pydantic, cryptography, rich-click, pydantic-settings, esptool, esp-pylib, esp-idf-size, esp-idf-nvs-partition-gen, esp-idf-diag, idf-component-manager, esp-coredump, pyclang, esp-idf-monitor
+
+Successfully installed PyYAML-6.0.3 annotated-types-0.8.0 bitarray-3.10.1 bitstring-4.4.0 certifi-2026.7.22 cffi-2.1.1 charset_normalizer-3.4.9 click-8.1.8 colorama-0.4.6 construct-2.10.70 cryptography-44.0.3 ecdsa-0.19.2 esp-coredump-1.16.0 esp-idf-diag-0.2.0 esp-idf-kconfig-2.5.4 esp-idf-monitor-1.9.0 esp-idf-nvs-partition-gen-0.1.9 esp-idf-panic-decoder-1.5.0 esp-idf-size-1.7.1 esp-pylib-1.1.2 esptool-4.12.0 freertos_gdb-1.0.4 idf-component-manager-2.5.0 idna-3.18 intelhex-2.3.0 jsonref-1.1.0 markdown-it-py-4.2.0 mdurl-0.1.2 packaging-26.3 pathvalidate-3.3.1 psutil-7.2.2 pyclang-0.7.0 pycparser-3.0 pydantic-2.13.4 pydantic-core-2.46.4 pydantic-settings-2.15.0 pyelftools-0.33 pygdbmi-0.11.0.0 pygments-2.20.0 pyparsing-3.2.5 pyserial-3.5 python-dotenv-1.2.2 reedsolo-1.7.0 requests-2.34.2 requests-file-3.0.1 requests-toolbelt-1.0.0 rich-15.0.0 rich-click-1.9.8 ruamel.yaml-0.19.1 six-1.17.0 tibs-0.5.7 tqdm-4.70.0 truststore-0.10.4 typing-extensions-4.16.0 typing-inspection-0.4.2 urllib3-1.26.20 windows-curses-2.4.2
+Skipping the download of E:\APPS\Espressif\espidf.constraints.v5.5.txt because it was downloaded recently.
+Upgrading pip...
+Upgrading setuptools...
+Installing Python packages
+ Constraint file: E:\APPS\Espressif\espidf.constraints.v5.5.txt
+ Requirement files:
+  - C:\Espressif\esp-idf-release-v5.5\tools\requirements\requirements.core.txt
+
+All done! You can now run:
+    export.ps1
+
